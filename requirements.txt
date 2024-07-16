@@ -5,3 +5,4 @@ langchain_community
 langchain
 python-dotenv
 langchain_core
+langchain_groq
